@@ -3,7 +3,9 @@ Setup
 
 1. python -m venv myenv
 2. myenv\Scripts\activate
-3. python Weathermap.py
+3. pip install python-weather
+4. pip install pygal_maps_world   
+5. python Weathermap.py
 
 Open "WeatherMap.svg" to see output
 
